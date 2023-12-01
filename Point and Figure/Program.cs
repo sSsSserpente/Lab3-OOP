@@ -1,4 +1,4 @@
-﻿// Class representing a point with two numeric fields and one string field
+﻿// Class representing a point with two numeric fields and one string fieldd
 class Point
 {
     private double x;
